@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center" > Hi👋, I'm Akash Tandale  </h2>
 
 <!--
 **Akash-Tandale001/Akash-Tandale001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
