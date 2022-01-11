@@ -1,9 +1,9 @@
 <h2 align="center" > Hi👋, I'm Akash </h2>
 
-<!--
+
 ## About me:
 
-- :telescope: I'm currently Learning Backend Development
+- :telescope: I'm currently Learning Web Development(MERN)
 - :mailbox: Contact me at **akashtandle987@gmail.com**
 
 
@@ -23,6 +23,7 @@
 <a href="https://www.gnu.org/software/bash/"> ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white)</a>
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
+<a href="https://www.docker.com/"> ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=black)</a>
 
 ## :incoming_envelope: Reach Me
 
@@ -42,4 +43,3 @@
     <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Tandale001&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true&hide=jupyter%20notebook,java,dart,makefile&langs_count=6"/>
   </a>
 </p>
--->
