@@ -34,7 +34,7 @@
 <a href="https://www.instagram.com/akash_tandale.11/"> ![Instagram](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 <br><br> 
-<p >
+<p align="center" >
   <a href="https://github.com/Akash-Tandale001">
     <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/?username=Akash-Tandale001&show_icons=true&hide=issues&title_color=fff&icon_color=fb8359&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true" />
   </a>
