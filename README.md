@@ -3,7 +3,7 @@
 
 ## About me:
 
-- :telescope: I'm currently Learning Web Development(MERN)
+- :telescope: I'm currently Learning Full Stack Development(MERN)
 - :mailbox: Contact me at **akashtandle987@gmail.com**
 
 ## :toolbox: My Tools
@@ -17,11 +17,13 @@
 <a href="https://getbootstrap.com/"> ![Bootstrap](https://img.shields.io/badge/Bootstrap-8712FB?&style=for-the-badge&logo=bootstrap&logoColor=white)</a>
 <a href="https://www.javascript.com/"> ![Javascript](https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="https://nodejs.org/en/"> ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
+<a href="https://www.reactjs.org/"> ![Docker](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)</a>
 <a href="https://www.npmjs.com/"> ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)</a>
 <a href="https://www.gnu.org/software/bash/"> ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white)</a>
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
 <a href="https://www.docker.com/"> ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=black)</a>
+
 
 ## :incoming_envelope: Reach Me
 
