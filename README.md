@@ -33,7 +33,7 @@
 <a href="https://twitter.com/AkashTandale6"> ![Twitter](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue)</a>
 <a href="https://www.instagram.com/akash_tandale.11/"> ![Instagram](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-<br><br> 
+<br>
 
 
 <p align="center" >
