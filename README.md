@@ -11,7 +11,7 @@
 <a href="https://www.w3schools.com/c/"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="https://www.w3schools.com/cpp/"> ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="https://www.python.org/"> ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=darkgreen)</a>
-<a href="https://www.java.com/en/"> ![Java](https://img.shields.io/badge/Java-6b5b4e?style=for-the-badge&logo=java&logoColor=white)</a>
+<a href="https://www.java.com/en/"> ![Java](https://img.shields.io/badge/Java-6b5b4e?style=for-the-badge&logo=java&logoColor=orange)</a>
 <a href="https://www.w3schools.com/html/"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)</a>
 <a href="https://getbootstrap.com/"> ![Bootstrap](https://img.shields.io/badge/Bootstrap-8712FB?&style=for-the-badge&logo=bootstrap&logoColor=white)</a>
