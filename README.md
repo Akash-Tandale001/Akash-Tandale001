@@ -3,7 +3,7 @@
 
 ## About me:
 
-- :telescope: I'm currently Learning Full Stack Development(MERN)
+- :telescope: I'm currently Learning Full Stack Development(Java)
 - :mailbox: Contact me at **akashtandle987@gmail.com**
 
 ## :toolbox: My Tools
@@ -18,7 +18,9 @@
 <a href="https://www.javascript.com/"> ![Javascript](https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="https://nodejs.org/en/"> ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
 <a href="https://www.reactjs.org/"> ![Docker](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)</a>
-<a href="https://www.npmjs.com/"> ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)</a>
+<a href="https://www.spring.io/"> ![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white)</a>
+<a href="https://www.hibernate.org/"> ![Hibernate](https://img.shields.io/badge/hibernate-white?style=for-the-badge&logo=hibernate&logoColor=brown)</a>
+<a href="https://www.mysql.com/"> ![Mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black)</a>
 <a href="https://www.gnu.org/software/bash/"> ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white)</a>
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
