@@ -10,7 +10,7 @@
 
 <a href="https://www.w3schools.com/c/"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="https://www.w3schools.com/cpp/"> ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
-<a href="https://www.python.org/"> ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=darkgreen)</a>
+<a href="https://www.python.org/"> ![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=green)</a>
 <a href="https://www.java.com/en/"> ![Java](https://img.shields.io/badge/Java-6b5b4e?style=for-the-badge&logo=java&logoColor=orange)</a>
 <a href="https://www.w3schools.com/html/"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)</a>
@@ -18,8 +18,9 @@
 <a href="https://www.javascript.com/"> ![Javascript](https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="https://nodejs.org/en/"> ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
 <a href="https://www.reactjs.org/"> ![Docker](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)</a>
-<a href="https://www.spring.io/"> ![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white)</a>
+<a href="https://www.spring.io/"> ![Spring](https://img.shields.io/badge/spring-339933?style=for-the-badge&logo=spring&logoColor=white)</a>
 <a href="https://www.hibernate.org/"> ![Hibernate](https://img.shields.io/badge/hibernate-white?style=for-the-badge&logo=hibernate&logoColor=brown)</a>
+<a href="https://www.thymeleaf.org/"> ![Thymeleaf](https://img.shields.io/badge/thymeleaf-339933?style=for-the-badge&logo=thymeleaf&logoColor=white)</a>
 <a href="https://www.mysql.com/"> ![Mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black)</a>
 <a href="https://www.gnu.org/software/bash/"> ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white)</a>
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
