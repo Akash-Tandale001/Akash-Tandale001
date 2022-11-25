@@ -27,6 +27,11 @@
 <a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
 <a href="https://www.docker.com/"> ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=black)</a>
 
+## 💻: Coding Platform
+<a href="https://leetcode.com/akash_tandale/"> ![Leetcode](https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=black)</a>
+<a href="https://www.codechef.com/users/akash_t"> ![CodeChef](https://img.shields.io/badge/Codechef-F05032?style=for-the-badge&logo=codechef&logoColor=white)</a>
+<a href="https://www.hackerrank.com/akashtandle987"> ![HackerRank](https://img.shields.io/badge/HackerRank-339933?style=for-the-badge&logo=hackerrank&logoColor=white)</a>
+<a href="https://auth.geeksforgeeks.org/user/akashtandle987/"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=339933)</a>
 
 ## :incoming_envelope: Reach Me
 
