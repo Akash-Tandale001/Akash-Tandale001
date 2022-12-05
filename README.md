@@ -46,9 +46,9 @@
 
 <p align="left" >
   <a href="https://github.com/Akash-Tandale001">
-    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/?username=Akash-Tandale001&show_icons=true&hide=issues&title_color=fff&icon_color=fb8359&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true" />
+    <img align="center" height="160px" src="https://github-readme-stats-akash-tandale001.vercel.app/api/?username=Akash-Tandale001&show_icons=true&hide=issues&title_color=fff&icon_color=fb8359&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true" />
   </a>
   <a href="https://github.com/Akash-Tandale001">
-    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Tandale001&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true&hide=jupyter%20notebook,java,dart,makefile&langs_count=6"/>
+    <img align="center" height="160px" src="https://github-readme-stats-akash-tandale001.vercel.app/api/top-langs/?username=Akash-Tandale001&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true&hide=jupyter%20notebook,java,dart,makefile&langs_count=6"/>
   </a>
 </p>
