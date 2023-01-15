@@ -32,6 +32,7 @@
 <a href="https://www.codechef.com/users/akash_t"> ![CodeChef](https://img.shields.io/badge/Codechef-F05032?style=for-the-badge&logo=codechef&logoColor=white)</a>
 <a href="https://www.hackerrank.com/akashtandle987"> ![HackerRank](https://img.shields.io/badge/HackerRank-339933?style=for-the-badge&logo=hackerrank&logoColor=white)</a>
 <a href="https://auth.geeksforgeeks.org/user/akashtandle987/"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=339933)</a>
+<a href="https://www.hackerearth.com/@akash4828"> ![HackerEarth](https://img.shields.io/badge/HackerEarth-blue?style=for-the-badge&logo=hackerearth&logoColor=white)</a>
 
 ## :incoming_envelope: Reach Me
 
