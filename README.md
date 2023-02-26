@@ -1,6 +1,6 @@
 <h2 align="center" > Hi👋, I'm Akash </h2>
 
-
+![](https://komarev.com/ghpvc/?username=Akash-Tandale001&style=plastic&color=blueviolet)
 ## About me:
 
 - :telescope: I'm currently Learning Full Stack Development(Java)
@@ -45,11 +45,20 @@
 <br>
 
 
-<p align="left" >
-  <a href="https://github.com/Akash-Tandale001">
-    <img align="center" height="160px" alt="stats1" src="https://github-readme-stats-akash-tandale001.vercel.app/api/?username=Akash-Tandale001&show_icons=true&hide=issues&title_color=fff&icon_color=fb8359&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<table  align=center >
+  <tr>
+    <td align=center>
+     <a href="https://github.com/Akash-Tandale001">
+    <img align="center" height="150px" alt="stats1" src="https://github-readme-stats-akash-tandale001.vercel.app/api/?username=Akash-Tandale001&theme=dark&show_icons=true" />
   </a>
-  <a href="https://github.com/Akash-Tandale001">
-    <img align="center" height="160px" alt="stats2" src="https://github-readme-stats-akash-tandale001.vercel.app/api/top-langs/?username=Akash-Tandale001&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true&hide=jupyter%20notebook,java,dart,makefile&langs_count=6"/>
+    </td>
+    
+  <td align=center> 
+    <a href="https://github.com/Akash-Tandale001">
+    <img align="center" height="150px" alt="stats2" src="https://github-readme-stats-akash-tandale001.vercel.app/api/top-langs/?username=Akash-Tandale001&layout=compact&theme=dark"/>
   </a>
-</p>
+  </tr>
+</table>
