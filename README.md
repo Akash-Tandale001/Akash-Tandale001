@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=Akash-Tandale001&style=flat-square&color=blueviolet" alt=""/>
 </div>
 <h2 align="center" > Hi👋, I'm Akash </h2>
-
+<div align="center">
+ <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
+</div>
 
 ## About me:
 
