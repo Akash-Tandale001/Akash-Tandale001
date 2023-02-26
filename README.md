@@ -1,6 +1,12 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akash-Tandale001&style=flat-square&color=blueviolet" alt=""/>
+</div>
 <h2 align="center" > Hi👋, I'm Akash </h2>
 
-![](https://komarev.com/ghpvc/?username=Akash-Tandale001&style=plastic&color=blueviolet)
+
 ## About me:
 
 - :telescope: I'm currently Learning Full Stack Development(Java)
@@ -42,11 +48,7 @@
 <a href="https://twitter.com/AkashTandale6" target="_blank"> ![Twitter](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue)</a>
 <a href="https://www.instagram.com/akash_tandale.11/" target="_blank"> ![Instagram](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-<br>
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <table  align=center >
   <tr>
