@@ -1,12 +1,13 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akash-Tandale001&style=flat-square&color=blueviolet" alt=""/>
-</div>
+</div> -->
+
 <h2 align="center" > Hi👋, I'm Akash </h2>
-<div align="center">
- <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
+<!-- <div align="inline">
+  <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+</div> -->
+<div id="badges" >
+  <img src="https://komarev.com/ghpvc/?username=Akash-Tandale001&style=flat-square&color=blueviolet" alt=""/>
 </div>
 
 ## About me:
@@ -64,5 +65,15 @@
     <a href="https://github.com/Akash-Tandale001">
     <img align="center" height="150px" alt="stats2" src="https://github-readme-stats-akash-tandale001.vercel.app/api/top-langs/?username=Akash-Tandale001&layout=compact&theme=dark"/>
   </a>
+    </td>
+    <td align=center> 
+    <a href="https://github.com/Akash-Tandale001">
+      <img align="center" height="150px" alt="stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Tandale001&layout=compact&theme=dark" alt="Akash-Tandale001" />
+  </a>
+        </td>
   </tr>
+  
+   
+  
 </table>
+<p></p>
