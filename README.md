@@ -53,7 +53,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<table  align=center >
+<table  align=center>
   <tr>
     <td align=center>
      <a href="https://github.com/Akash-Tandale001">
@@ -66,14 +66,18 @@
     <img align="center" height="150px" alt="stats2" src="https://github-readme-stats-akash-tandale001.vercel.app/api/top-langs/?username=Akash-Tandale001&layout=compact&theme=dark"/>
   </a>
     </td>
-    <td align=center> 
+   
+  </tr>  
+   
+  
+</table>
+<table align=center>
+  <tr>
+     <td align=center> 
     <a href="https://github.com/Akash-Tandale001">
       <img align="center" height="150px" alt="stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Tandale001&layout=compact&theme=dark" alt="Akash-Tandale001" />
   </a>
         </td>
   </tr>
-  
-   
-  
-</table>
+  </table>
 <p></p>
