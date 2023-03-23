@@ -8,6 +8,7 @@
 </div> -->
 <div id="badges" >
   <img src="https://komarev.com/ghpvc/?username=Akash-Tandale001&style=flat-square&color=blueviolet" alt=""/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAkash-Tandale001&countColor=%2337d67a" alt=""/>
 </div>
 
 ## About me:
