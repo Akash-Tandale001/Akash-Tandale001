@@ -18,17 +18,17 @@
 
 ## :toolbox: My Tools
 
-<a href="https://www.w3schools.com/c/" target="_blank"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
+<a href="https://www.java.com/en/" target="_blank"> ![Java](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="https://www.python.org/" target="_blank"> ![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=green)</a>
-<a href="https://www.java.com/en/" target="_blank"> ![Java](https://img.shields.io/badge/Java-6b5b4e?style=for-the-badge&logo=java&logoColor=orange)</a>
+<a href="https://www.w3schools.com/c/" target="_blank"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="https://www.w3schools.com/html/" target="_blank"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/" target="_blank"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)</a>
 <a href="https://getbootstrap.com/" target="_blank"> ![Bootstrap](https://img.shields.io/badge/Bootstrap-8712FB?&style=for-the-badge&logo=bootstrap&logoColor=white)</a>
 <a href="https://www.javascript.com/" target="_blank"> ![Javascript](https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="https://nodejs.org/en/" target="_blank"> ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
 <a href="https://www.reactjs.org/" target="_blank"> ![Docker](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)</a>
-<a href="https://www.spring.io/" target="_blank"> ![Spring](https://img.shields.io/badge/spring-339933?style=for-the-badge&logo=spring&logoColor=white)</a>
+<a href="https://www.spring.io/" target="_blank"> ![Spring Boot](https://img.shields.io/badge/spring-339933?style=for-the-badge&logo=spring&logoColor=white)</a>
 <a href="https://www.hibernate.org/" target="_blank"> ![Hibernate](https://img.shields.io/badge/hibernate-white?style=for-the-badge&logo=hibernate&logoColor=brown)</a>
 <a href="https://www.thymeleaf.org/" target="_blank"> ![Thymeleaf](https://img.shields.io/badge/thymeleaf-339933?style=for-the-badge&logo=thymeleaf&logoColor=white)</a>
 <a href="https://www.mysql.com/" target="_blank"> ![Mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black)</a>
