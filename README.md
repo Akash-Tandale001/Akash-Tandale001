@@ -3,11 +3,11 @@
 </div> -->
 
 <h2 align="center" > Hi👋, I'm Akash </h2>
-<!-- <div align="inline">
+<div align="center">
   <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
-</div> -->
+</div>
 <div id="badges" >
-  <img src="https://komarev.com/ghpvc/?username=Akash-Tandale001&style=flat-square&color=blueviolet" alt=""/>
+<!--   <img src="https://komarev.com/ghpvc/?username=Akash-Tandale001&style=flat-square&color=blueviolet" alt=""/> -->
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAkash-Tandale001&countColor=%2337d67a" alt=""/>
 </div>
 
@@ -27,15 +27,18 @@
 <a href="https://getbootstrap.com/" target="_blank"> ![Bootstrap](https://img.shields.io/badge/Bootstrap-8712FB?&style=for-the-badge&logo=bootstrap&logoColor=white)</a>
 <a href="https://www.javascript.com/" target="_blank"> ![Javascript](https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=black)</a>
 <a href="https://nodejs.org/en/" target="_blank"> ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
-<a href="https://www.reactjs.org/" target="_blank"> ![Docker](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)</a>
+<a href="https://www.mongodb.com/" target="_blank"> ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="https://www.reactjs.org/" target="_blank"> ![ReactJs](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)</a>
 <a href="https://www.spring.io/" target="_blank"> ![Spring Boot](https://img.shields.io/badge/spring-339933?style=for-the-badge&logo=spring&logoColor=white)</a>
 <a href="https://www.hibernate.org/" target="_blank"> ![Hibernate](https://img.shields.io/badge/hibernate-white?style=for-the-badge&logo=hibernate&logoColor=brown)</a>
 <a href="https://www.thymeleaf.org/" target="_blank"> ![Thymeleaf](https://img.shields.io/badge/thymeleaf-339933?style=for-the-badge&logo=thymeleaf&logoColor=white)</a>
 <a href="https://www.mysql.com/" target="_blank"> ![Mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black)</a>
+<a href="https://www.prisma.io/" target="_blank"> ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)</a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white)</a>
 <a href="https://git-scm.com/" target="_blank"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.linux.org/" target="_blank"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
 <a href="https://www.docker.com/" target="_blank"> ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=black)</a>
+<a href="https://kubernetes.io/" target="_blank"> ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=black)</a>
 
 ## 💻: Coding Platform
 <a href="https://leetcode.com/akash_tandale/" target="_blank"> ![Leetcode](https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=black)</a>
