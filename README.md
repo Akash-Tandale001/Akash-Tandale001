@@ -29,7 +29,7 @@
 <a href="https://nodejs.org/en/" target="_blank"> ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
 <a href="https://www.mongodb.com/" target="_blank"> ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white)</a>
 <a href="https://www.reactjs.org/" target="_blank"> ![ReactJs](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)</a>
-<a href="https://www.spring.io/" target="_blank"> ![Spring Boot](https://img.shields.io/badge/spring-339933?style=for-the-badge&logo=spring&logoColor=white)</a>
+<a href="https://www.spring.io/" target="_blank"> ![SpringBoot](https://img.shields.io/badge/springboot-339933?style=for-the-badge&logo=spring&logoColor=white)</a>
 <a href="https://www.hibernate.org/" target="_blank"> ![Hibernate](https://img.shields.io/badge/hibernate-white?style=for-the-badge&logo=hibernate&logoColor=brown)</a>
 <a href="https://www.thymeleaf.org/" target="_blank"> ![Thymeleaf](https://img.shields.io/badge/thymeleaf-339933?style=for-the-badge&logo=thymeleaf&logoColor=white)</a>
 <a href="https://www.mysql.com/" target="_blank"> ![Mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black)</a>
