@@ -39,6 +39,7 @@
 <a href="https://www.linux.org/" target="_blank"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
 <a href="https://www.docker.com/" target="_blank"> ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=black)</a>
 <a href="https://kubernetes.io/" target="_blank"> ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=black)</a>
+<a href="https://kubernetes.io/" target="_blank"> ![Terraform](https://img.shields.io/badge/Terraform-white?style=for-the-badge&logo=terraform&logoColor=purple)</a>
 
 ## 💻: Coding Platform
 <a href="https://leetcode.com/akash_tandale/" target="_blank"> ![Leetcode](https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=black)</a>
