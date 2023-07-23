@@ -57,7 +57,7 @@
 <a href="https://www.instagram.com/akash_tandale.11/" target="_blank"> ![Instagram](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://d28a91wd1vf013.cloudfront.net" target="_blank"> ![Protfolio](https://img.shields.io/badge/Portfolio-white.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![border-seperator](assets/borderseparator.gif)
 
 <table  align=center>
   <tr>
