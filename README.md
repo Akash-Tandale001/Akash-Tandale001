@@ -40,6 +40,7 @@
 <a href="https://www.docker.com/" target="_blank"> ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=black)</a>
 <a href="https://kubernetes.io/" target="_blank"> ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=black)</a>
 <a href="https://kubernetes.io/" target="_blank"> ![Terraform](https://img.shields.io/badge/Terraform-white?style=for-the-badge&logo=terraform&logoColor=purple)</a>
+<a href="[https://kubernetes.io/](https://go.dev/)" target="_blank"> ![Golang](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=black)</a>
 
 ## 💻: Coding Platform
 <a href="https://leetcode.com/akash_tandale/" target="_blank"> ![Leetcode](https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=black)</a>
